@@ -1,14 +1,16 @@
 # generative-design
 
-A Clojure library designed to ... well, that part is up to you.
+These are the examples from the magnificent book "Generative Design" rewritten in Clojure using Quil.
 
-## Usage
+The original examples are licensed under the Apache License. Get all information about the book and the original code at
+http://generative-gestaltung.de/
 
-FIXME
+The book is really great! Anything in this repository you might find intersting should be attributed to the authors of the book. Any bug you
+find is almost for sure my fault though.
+
+Thanks to Hartmut Bohnacker, Benedikt Groß, Julia Laub, Claudius Lazzeroni for producing the book and using the Apache License for the code.
 
 ## License
-
-Copyright © 2015 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
