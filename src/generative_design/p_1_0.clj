@@ -17,6 +17,7 @@
   (q/fill (- 360 (/ (q/mouse-y) 2)) 100 100)
   (q/rect 360 360 (inc (q/mouse-x)) (inc (q/mouse-x))))
 
+#_
 (q/defsketch hello-color
   :title "Hello Color P.1.0"
   :size [720 720]
